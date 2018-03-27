@@ -1,2 +1,2 @@
 # TEST2
-this is the repository created by rishabh jha
+this is the repository created by rishabh
